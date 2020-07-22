@@ -58,7 +58,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>com.wadhara.DyDbLambdaExample</mainClass>
+              <mainClass>com.wadhara.OrdersLambda</mainClass>
             </manifest>
           </archive>
 
